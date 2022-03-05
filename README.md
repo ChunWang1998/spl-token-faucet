@@ -26,3 +26,8 @@ process:
 2. create mint token account
 3. mint some mint token in mint token account
 4. transfer mint token from mint token account to recipient wallet address(ata)->(faucet function) 
+
+## example successful output
+![image](https://github.com/ChunWang1998/spl-token-faucet/blob/main/%E6%88%AA%E5%9C%96%202022-03-06%20%E4%B8%8A%E5%8D%8812.12.45.png)
+
+![image](https://github.com/ChunWang1998/spl-token-faucet/blob/main/%E6%88%AA%E5%9C%96%202022-03-06%20%E4%B8%8A%E5%8D%8812.12.56.png)
