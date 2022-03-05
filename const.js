@@ -18,14 +18,6 @@ const API_ENDPOINT = "http://api.devnet.solana.com";
 
 const CONNECTION = new Connection(API_ENDPOINT);
 
-const TEST_MINT_1 = new PublicKey("7cLRPv1ZiuYuLGdBVWoBoTAyzZL5VqxPRJJ93ZeNowHy");
-
-const TEST_MINT_2 = new PublicKey("2MCDXvUqibn4VbkUnsAxYeMR7rZ7gYZDySQgHZ2bGUWj");
-
-const TOKEN_ADDRESS_1 = new PublicKey("EXGuKgmqc3kBmRQWH4LfcLtVaFVU8qVK3QSy6FkFei9X")
-
-const TOKEN_ADDRESS_2 = new PublicKey("9jwUAvdgBGBm3aQ6U2ibiPavEKVh2uD5SPXPQyqcjFst")
-
 const DECIMALS = 9;
 
 module.exports = {
@@ -33,9 +25,5 @@ module.exports = {
   TEST_OWNER,
   API_ENDPOINT,
   CONNECTION,
-  TEST_MINT_1,
-  TEST_MINT_2,
-  TOKEN_ADDRESS_1,
-  TOKEN_ADDRESS_2,
-  DECIMALS
+  DECIMALS,
 }

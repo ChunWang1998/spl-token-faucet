@@ -17,14 +17,11 @@ node faucet.js
 ## note
 
 useful reference:
-requestAirdrop.js
-transferSol.js ->CONNECTION.getBalance
-getAccountInfo.js->CONNECTION.getAccountInfo
-getTokenAccountBalance.js->CONNECTION.getTokenAccountBalance
-getTokenList->?
-getTokenAccountsByOwner.js->查詢owner擁有多少個token account
 
-流程:
+https://easonwang.gitbook.io/blockchain/solana-jiao-xue
+https://blog.csdn.net/mutourend/article/details/119927917
+
+process:
 1. create mint token
 2. create mint token account
 3. mint some mint token in mint token account
