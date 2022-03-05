@@ -1,0 +1,24 @@
+{
+  "name": "spl-token-faucet",
+  "version": "1.0.0",
+  "description": "## requirement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChunWang1998/spl-token-faucet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChunWang1998/spl-token-faucet/issues"
+  },
+  "homepage": "https://github.com/ChunWang1998/spl-token-faucet#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.30.2",
+    "@solana/spl-token": "^0.1.8",
+    "bip39": "^3.0.4"
+  }
+}
